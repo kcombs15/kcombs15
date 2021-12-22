@@ -1,4 +1,4 @@
-👋 Hi, I’m Kara and I'm a student
+👋 Hi, I’m Kara
 
 <!---
 kcombs15/kcombs15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
